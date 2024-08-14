@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ph\u00E2n t\u00E1n\\H\u00F9ng\\QLDSV_TC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB613E6-17E7-41F3-A0D3-FB78723ECA9C}|QLDSV_TC\\QLDSV_TC.csproj|d:\\ph\u00E2n t\u00E1n\\h\u00F9ng\\qldsv_tc-main\\qldsv_tc\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB613E6-17E7-41F3-A0D3-FB78723ECA9C}|QLDSV_TC\\QLDSV_TC.csproj|solutionrelative:qldsv_tc\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB613E6-17E7-41F3-A0D3-FB78723ECA9C}|QLDSV_TC\\QLDSV_TC.csproj|d:\\ph\u00E2n t\u00E1n\\h\u00F9ng\\qldsv_tc-main\\qldsv_tc\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFB613E6-17E7-41F3-A0D3-FB78723ECA9C}|QLDSV_TC\\QLDSV_TC.csproj|solutionrelative:qldsv_tc\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formLogin.cs",
+              "DocumentMoniker": "D:\\Ph\u00E2n t\u00E1n\\H\u00F9ng\\QLDSV_TC-main\\QLDSV_TC\\views\\formLogin.cs",
+              "RelativeDocumentMoniker": "QLDSV_TC\\views\\formLogin.cs",
+              "ToolTip": "D:\\Ph\u00E2n t\u00E1n\\H\u00F9ng\\QLDSV_TC-main\\QLDSV_TC\\views\\formLogin.cs",
+              "RelativeToolTip": "QLDSV_TC\\views\\formLogin.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAwGsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:07:29.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Ph\u00E2n t\u00E1n\\H\u00F9ng\\QLDSV_TC-main\\QLDSV_TC\\views\\formLogin.cs",
+              "RelativeDocumentMoniker": "QLDSV_TC\\views\\formLogin.cs",
+              "ToolTip": "D:\\Ph\u00E2n t\u00E1n\\H\u00F9ng\\QLDSV_TC-main\\QLDSV_TC\\views\\formLogin.cs [Design]",
+              "RelativeToolTip": "QLDSV_TC\\views\\formLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:07:27.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
